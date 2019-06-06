@@ -1,4 +1,4 @@
-class StaticController < ApplicationController
+class StoreAdminController < ApplicationController
   def home
     render :layout => "admin"
   end
